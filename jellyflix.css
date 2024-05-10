@@ -1316,7 +1316,7 @@ label.selectLabel {
 .homeLibraryButton,
 .card:hover,
 .card:focus {
-  background-color: #101010 !important;
+  background-color: #FF0000 !important;
 }
 
 .layout-tv .vertical-wrap .card::before {

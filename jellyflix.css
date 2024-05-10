@@ -676,7 +676,7 @@ div#loginPage {
 }
 
 .layout-mobile #loginPage {
-  background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/08/Beautiful-Bridge-And-Photos.jpg5') !important;
+  background-image: url('/Branding/Splashscreen?format=jpg&foregroundLayer=0.7') !important;
   background-position: center;
   background-size: cover;
 }
@@ -1316,7 +1316,7 @@ label.selectLabel {
 .homeLibraryButton,
 .card:hover,
 .card:focus {
-  background-color: #FF0000 !important;
+  background-color: #101010 !important;
 }
 
 .layout-tv .vertical-wrap .card::before {

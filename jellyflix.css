@@ -676,7 +676,7 @@ div#loginPage {
 }
 
 .layout-mobile #loginPage {
-  background-image: url('/Branding/Splashscreen?format=jpg&foregroundLayer=0.7') !important;
+  background-image: url('https://raw.githubusercontent.com/bogdan-rgb/Jellyflix-mod/main/splashscreen.png?format=jpg&foregroundLayer=0.15') !important;
   background-position: center;
   background-size: cover;
 }
@@ -695,11 +695,10 @@ div#loginPage {
 /*Login background with radial gradient overlay to make it look like netflix login*/
 
 #loginPage {
-  background-image: url('/Branding/Splashscreen?format=jpg&foregroundLayer=0.15');
+  background-image: url('https://raw.githubusercontent.com/bogdan-rgb/Jellyflix-mod/main/splashscreen.png?format=jpg&foregroundLayer=0.15');
   background-position: center;
   background-size: cover;
 }
-
 /*video Page*/
 
 div#videoOsdPage {
